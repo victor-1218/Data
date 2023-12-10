@@ -83,7 +83,7 @@ for it = 1:MaxIt
    
     w=wmax-(wmax-wmin)*it/MaxIt; % update inertial weight
     for i = 1:nPop
-        simout = sim('Model1_3');
+        simout = sim('Model1_3_ZVD');
 
 %---------------- tính giá trị hàm mục tiêu --------------------
            particle(i).J = n1*simout.IAE.Data(end)+n2*simout.MAX1.Data(end)+n2*simout.MAX2.Data(end);  
