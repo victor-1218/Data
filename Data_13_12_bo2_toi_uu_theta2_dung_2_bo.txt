@@ -1,0 +1,279 @@
+>> PSO_Model1_3
+  *l1 = 0.1
+mc = 0.5
+GlobalBest.Position=
+0.28532  0.48317  0.62757
+GlobalBest.J=
+9.1289
+  *l1 = 0.12
+mc = 0.5
+GlobalBest.Position=
+0.26665  0.49492  0.74231
+GlobalBest.J=
+9.2022
+  *l1 = 0.14
+mc = 0.5
+GlobalBest.Position=
+0.28113  0.44613  0.71551
+GlobalBest.J=
+9.224
+  *l1 = 0.16
+mc = 0.5
+GlobalBest.Position=
+0.29422  0.4819  0.60256
+GlobalBest.J=
+9.1105
+  *l1 = 0.18
+mc = 0.5
+GlobalBest.Position=
+0.30813  0.47685  0.6954
+GlobalBest.J=
+9.0802
+  *l1 = 0.2
+mc = 0.5
+GlobalBest.Position=
+0.32129  0.50463  0.69172
+GlobalBest.J=
+9.0526
+  *l1 = 0.22
+mc = 0.5
+GlobalBest.Position=
+0.33414  0.55838  0.8053
+GlobalBest.J=
+9.0575
+  *l1 = 0.24
+mc = 0.5
+GlobalBest.Position=
+0.34371  0.51427  0.8294
+GlobalBest.J=
+9.0307
+  *l1 = 0.26
+mc = 0.5
+GlobalBest.Position=
+0.35885  0.50611  0.76022
+GlobalBest.J=
+8.9774
+  *l1 = 0.28
+mc = 0.5
+GlobalBest.Position=
+0.37072  0.48468  0.86566
+GlobalBest.J=
+8.9885
+  *l1 = 0.3
+mc = 0.5
+GlobalBest.Position=
+0.38228  0.5262  0.87237
+GlobalBest.J=
+8.9751
+  *l1 = 0.32
+mc = 0.5
+GlobalBest.Position=
+0.38422  0.51407  0.87002
+GlobalBest.J=
+8.9575
+  *l1 = 0.34
+mc = 0.5
+GlobalBest.Position=
+0.40162  0.47989  0.89568
+GlobalBest.J=
+8.9407
+  *l1 = 0.36
+mc = 0.5
+GlobalBest.Position=
+0.3982  0.51793  1.0118
+GlobalBest.J=
+8.9633
+  *l1 = 0.38
+mc = 0.5
+GlobalBest.Position=
+0.42315  0.49668  0.96835
+GlobalBest.J=
+8.9334
+  *l1 = 0.4
+mc = 0.5
+GlobalBest.Position=
+0.42137  0.48839  1.1318
+GlobalBest.J=
+8.96
+  *l1 = 0.42
+mc = 0.5
+GlobalBest.Position=
+0.44599  0.48421  0.95466
+GlobalBest.J=
+8.9116
+  *l1 = 0.44
+mc = 0.5
+GlobalBest.Position=
+0.45581  0.50474  0.95287
+GlobalBest.J=
+8.9089
+  *l1 = 0.46
+mc = 0.5
+GlobalBest.Position=
+0.44821  0.54807  1.1347
+GlobalBest.J=
+8.9594
+  *l1 = 0.48
+mc = 0.5
+GlobalBest.Position=
+0.47486  0.50088  1.076
+GlobalBest.J=
+8.9255
+  *l1 = 0.5
+mc = 0.5
+GlobalBest.Position=
+0.47473  0.52089  1.4523
+GlobalBest.J=
+8.9133
+  *l1 = 0.52
+mc = 0.5
+GlobalBest.Position=
+0.47241  0.52096  0.98642
+GlobalBest.J=
+8.9126
+  *l1 = 0.54
+mc = 0.5
+GlobalBest.Position=
+0.47886  0.50213  1.4117
+GlobalBest.J=
+8.9199
+  *l1 = 0.56
+mc = 0.5
+GlobalBest.Position=
+0.49316  0.51091  1.477
+GlobalBest.J=
+8.9061
+  *l1 = 0.58
+mc = 0.5
+GlobalBest.Position=
+0.47687  0.52289  1.3994
+GlobalBest.J=
+8.9238
+  *l1 = 0.6
+mc = 0.5
+GlobalBest.Position=
+0.51033  0.5439  1.136
+GlobalBest.J=
+8.9534
+  *l1 = 0.62
+mc = 0.5
+GlobalBest.Position=
+0.47322  0.53641  1.4757
+GlobalBest.J=
+8.9193
+  *l1 = 0.64
+mc = 0.5
+GlobalBest.Position=
+0.49119  0.54465  1.0893
+GlobalBest.J=
+8.9411
+  *l1 = 0.66
+mc = 0.5
+GlobalBest.Position=
+0.46174  0.55277  1.4593
+GlobalBest.J=
+8.9396
+  *l1 = 0.68
+mc = 0.5
+GlobalBest.Position=
+0.47434  0.56078  1.6703
+GlobalBest.J=
+8.8815
+  *l1 = 0.7
+mc = 0.5
+GlobalBest.Position=
+0.51791  0.56867  1.1373
+GlobalBest.J=
+8.9658
+  *l1 = 0.72
+mc = 0.5
+GlobalBest.Position=
+0.4627  0.57646  1.4751
+GlobalBest.J=
+8.962
+  *l1 = 0.74
+mc = 0.5
+GlobalBest.Position=
+0.50887  0.58915  1.6768
+GlobalBest.J=
+8.9168
+  *l1 = 0.76
+mc = 0.5
+GlobalBest.Position=
+0.50107  0.59173  1.503
+GlobalBest.J=
+8.9601
+  *l1 = 0.78
+mc = 0.5
+GlobalBest.Position=
+0.46715  0.59995  1.7651
+GlobalBest.J=
+8.9024
+  *l1 = 0.8
+mc = 0.5
+GlobalBest.Position=
+0.46698  0.60663  1.6095
+GlobalBest.J=
+8.9669
+  *l1 = 0.82
+mc = 0.5
+GlobalBest.Position=
+0.47783  0.61394  1.5626
+GlobalBest.J=
+8.9837
+  *l1 = 0.84
+mc = 0.5
+GlobalBest.Position=
+0.51211  0.62117  1.5817
+GlobalBest.J=
+8.9755
+  *l1 = 0.86
+mc = 0.5
+GlobalBest.Position=
+0.47304  0.62832  1.874
+GlobalBest.J=
+8.9436
+  *l1 = 0.88
+mc = 0.5
+GlobalBest.Position=
+0.47673  0.63538  1.7153
+GlobalBest.J=
+8.961
+  *l1 = 0.9
+mc = 0.5
+GlobalBest.Position=
+0.49316  0.64237  1.7757
+GlobalBest.J=
+8.9761
+  *l1 = 0.92
+mc = 0.5
+GlobalBest.Position=
+0.45748  0.64929  1.8411
+GlobalBest.J=
+8.9792
+  *l1 = 0.94
+mc = 0.5
+GlobalBest.Position=
+0.49629  0.65613  1.7676
+GlobalBest.J=
+9.0049
+  *l1 = 0.96
+mc = 0.5
+GlobalBest.Position=
+0.46475  0.66291  1.6756
+GlobalBest.J=
+9.0432
+  *l1 = 0.98
+mc = 0.5
+GlobalBest.Position=
+0.46395  0.67436  1.963
+GlobalBest.J=
+9.0161
+  *l1 = 1
+mc = 0.5
+GlobalBest.Position=
+0.4784  0.67625  1.7597
+GlobalBest.J=
+9.0424
+Fisnish
+>> 
