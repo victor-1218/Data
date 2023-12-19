@@ -1,3 +1,4 @@
+Toi uu bo 1 cho 2 goc voi mc=1 kg
 >> PSO16_12
   *l1 = 0.1
 mc = 1
