@@ -1,0 +1,12 @@
+sampleTime = 0.005;
+numSteps = 1023;
+time = sampleTime*(0:numSteps-1);
+time = time';
+%data1 = theta1.theta1;
+data1=xlsread('E:\1_Tai_lieu_hoc_tap\Do_an\Do_an_tn\Data\Mo_hinh_thuc_nghiem\25.12\l1=0.1\the1.xlsx',1,'B3:B1025');
+
+%data2 = theta2.theta2;
+data2=xlsread('E:\1_Tai_lieu_hoc_tap\Do_an\Do_an_tn\Data\Mo_hinh_thuc_nghiem\25.12\l1=0.1\the2.xlsx',1,'B3:B1025');
+secs = seconds(time);
+the1 = timetable(secs,data1);
+the2 = timetable(secs,data2);
